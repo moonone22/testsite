@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/testsite.git/static/css/main.a164222a.css",
+    "main.js": "/testsite.git/static/js/main.8635ebb5.js",
+    "static/media/Mont-HeavyDEMO.otf": "/testsite.git/static/media/Mont-HeavyDEMO.a1c041a8d8e27fc771db.otf",
+    "static/media/slick.svg": "/testsite.git/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/testsite.git/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/testsite.git/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/testsite.git/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/testsite.git/index.html",
+    "main.a164222a.css.map": "/testsite.git/static/css/main.a164222a.css.map",
+    "main.8635ebb5.js.map": "/testsite.git/static/js/main.8635ebb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a164222a.css",
+    "static/js/main.8635ebb5.js"
+  ]
+}
